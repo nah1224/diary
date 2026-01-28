@@ -1,7 +1,7 @@
 import { NavLink } from "react-router-dom";
 import { BookOpen, CheckSquare, Calendar, BarChart2 } from "lucide-react";
 
-const Sidebar = () => {
+const sidebar = () => {
   return (
     <aside className="w-64 bg-gray-800 text-white p-4">
       <div className="mb-8">
